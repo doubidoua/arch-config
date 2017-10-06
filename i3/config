@@ -190,7 +190,7 @@ exec "setxkbmap -layout fr"
 exec "expressvpn connect smart"
 
 # start nm-applet
-exec --no-startup-id nm-applet --sm-disable
+exec --no-startup-id "nm-applet --sm-disable"
 
 # Compton
-exec compton -b --config /home/arthur/.config/compton.conf
+exec "compton -b --config /home/arthur/.config/compton.conf"

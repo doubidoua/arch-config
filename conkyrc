@@ -2,7 +2,7 @@
 background yes 
 #border_width 1
 cpu_avg_samples 1
-#default_color white
+default_color white
 #default_outline_color white
 #default_shade_color white
 #draw_borders no
@@ -10,7 +10,7 @@ cpu_avg_samples 1
 #draw_outline no
 #draw_shades no
 #use_xft yes
-#xftfont DejaVu Sans Mono:size=12
+xftfont Hack:size=12
 #minimum_size 5 5
 #net_avg_samples 2
 no_buffers yes
@@ -32,10 +32,9 @@ use_spacer none
 total_run_times 0
 
 TEXT
-${if_up eno1}E ${upspeed eno1} ${downspeed eno1}|${endif}\
+${if_up enp4s0}E ${upspeed enp4s0} ${downspeed enp4s0}|${endif}\
 ${if_up wlo1}W ${upspeed wlo1} ${downspeed wlo1}|${endif}\
 D ${diskio_read /dev/sda}/${diskio_write /dev/sda}|\
 L ${loadavg}|\
 M ${mem}/${memmax} ${memperc}% ${swap}|\
-B ${battery_percent}%|\
 ${time %H:%M:%S %d/%m}

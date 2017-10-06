@@ -1,0 +1,25 @@
+[FileDialogSize]
+Height 1050=480
+Width 1680=640
+
+[KFileDialog Settings]
+Recent Files[$e]=green_wave__4k__by_thegoldenbox-dbbbicf.png,file:$HOME/Downloads/material_desing_ps_interface_by_dsings-d8fkuek.jpg,file:$HOME/Downloads/md1_by_dsings-d8ep2cg.jpg,file:$HOME/Downloads/minimalist_metal_wallpaper_by_malkowitch-d5k14s4.jpg,file:$HOME/Downloads/minimalistic_arch_linux_wallpaper_by_malkowitch-dahpghs.jpg,file:$HOME/Downloads/green_wave__4k__by_thegoldenbox-dbbbicf.png
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[KPropertiesDialog]
+Height 1050=436
+Width 1680=422
+
+[PlasmaRunnerManager]
+LaunchCounts=5 services_firefox.desktop,1 services_com.teamviewer.TeamViewer.desktop,1 services_steam.desktop,1 services_steam-native.desktop,1 services_transmission-gtk --minimized
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 3][Horizontal1680]
+thickness=36
+
+[ScreenConnectors]
+0=DP-2
+1=DVI-D-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

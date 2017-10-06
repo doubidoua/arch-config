@@ -1,0 +1,25 @@
+[Data Source]
+DisplayName=mathis.langlois@laposte.net
+Enabled=true
+Parent=1503840459.5359.2@arch51d
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://1503840459.5359.2%40arch51d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+
+[Mail Identity]
+Address=mathis.langlois@laposte.net
+Aliases=
+Name=Mathis
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://1503840459.5359.2%40arch51d/Sent
+TransportUid=1503840459.5359.10@arch51d
+RepliesToOriginFolder=false

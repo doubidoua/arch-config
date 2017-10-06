@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=mathis.langlois59@gmail.com
+Enabled=true
+Parent=1503840947.5359.26@arch51d
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.googlemail.com
+Method=Google
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=mathis.langlois59@gmail.com
+CredentialName=
+
+[Security]
+Method=ssl-on-alternate-port

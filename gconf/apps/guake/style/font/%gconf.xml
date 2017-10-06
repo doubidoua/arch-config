@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="palette_name" mtime="1502678914" type="string">
+		<stringvalue>Space Gray</stringvalue>
+	</entry>
+	<entry name="palette" mtime="1502678914" type="string">
+		<stringvalue>#000000000000:#AFAF4B4B5757:#8787B2B27979:#E5E5C0C07878:#7C7C8F8FA3A3:#A3A379799696:#8484A6A6A4A4:#B2B2B8B8C2C2:#000000000000:#AFAF4B4B5757:#8787B2B27979:#E5E5C0C07878:#7C7C8F8FA3A3:#A3A379799696:#8484A6A6A4A4:#FFFFFEFEFEFE:#B2B2B8B8C2C2:#202023232C2C</stringvalue>
+	</entry>
+	<entry name="allow_bold" mtime="1502678914" type="bool" value="true"/>
+</gconf>

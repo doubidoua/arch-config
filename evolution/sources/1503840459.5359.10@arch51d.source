@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=mathis.langlois@laposte.net
+Enabled=true
+Parent=1503840459.5359.2@arch51d
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.laposte.net
+Method=LOGIN
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=mathis.langlois
+CredentialName=
+
+[Security]
+Method=ssl-on-alternate-port

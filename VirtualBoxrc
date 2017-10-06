@@ -1,0 +1,7 @@
+[FileDialogSize]
+Height 1050=480
+Width 1680=640
+
+[KFileDialog Settings]
+Recent Files[$e]=kali_pentest_lab.vdi,file:///run/media/arthur/Stockage/Home/Documents/os-images/debian-8.2.0-amd64-DVD-1.iso,file:$HOME/it/os_images/Windows Server 2012 R2 VL ESD en-US June 2016 %7BGen2%7D/2012.R2VL.ESD.ENU.June2016.iso,file:///run/media/arthur/Stockage/Home/Documents/usb aston/iso/OS/NT6.3/Windows_Server_2012R2_Upd1_EVAL.ISO,file:$HOME/it/os_images/Kali-Linux-2017.1-vm-amd64/Kali-Linux-2017.1-vm-amd64.vmdk
+Recent URLs[$e]=file:$HOME/VirtualBox VMs/kali_pentest_lab/,file:$HOME/it/os_images/Kali-Linux-2017.1-vm-amd64/,file:///run/media/arthur/Stockage/Home/Documents/usb aston/iso/OS/NT6.3/,file:$HOME/it/os_images/Windows Server 2012 R2 VL ESD en-US June 2016 %7BGen2%7D/,file:///run/media/arthur/Stockage/Home/Documents/os-images/

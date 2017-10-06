@@ -1,0 +1,95 @@
+{
+   "about_add_new_rule": {
+      "message": "הוסף כלל חדש"
+   },
+   "about_ext_description": {
+      "message": "הצפן את הרשת! השתמש באבטחת HTTPS באופן אוטומטי באתרים רבים."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_title": {
+      "message": "אודות HTTPS Everywhere"
+   },
+   "about_version": {
+      "message": "גרסה"
+   },
+   "chrome_add_new_rule": {
+      "message": "הוסף כלל חדש עבור אתר זה"
+   },
+   "chrome_add_rule": {
+      "message": "הוסף כלל עבור אתר זה"
+   },
+   "chrome_always_https_for_host": {
+      "message": "השתמש תמיד ב-https עבור מארח זה"
+   },
+   "chrome_experimental_rules": {
+      "message": "כללים ניסיוניים"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "עשוי לגרום לאזהרות או לשבירה. מושבת כברירת מחדל."
+   },
+   "chrome_hide_advanced": {
+      "message": "הסתר מתקדם"
+   },
+   "chrome_host": {
+      "message": "מארח:"
+   },
+   "chrome_redirect_to": {
+      "message": "הפנה אל"
+   },
+   "chrome_regex": {
+      "message": "regex תואם"
+   },
+   "chrome_rule_name": {
+      "message": "שם כלל"
+   },
+   "chrome_show_advanced": {
+      "message": "הראה מתקדם"
+   },
+   "chrome_stable_rules": {
+      "message": "כללים יציבים"
+   },
+   "chrome_stable_rules_description": {
+      "message": "אלץ חיבורים מוצפנים אל אתרים אלו:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "ביטול"
+   },
+   "menu_blockUnencryptedRequests": {
+      "message": "חסום את כל הבקשות הבלתי מוצפנות"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "תרום אל EFF"
+   },
+   "menu_globalEnable": {
+      "message": "אפשר את HTTPS Everywhere"
+   },
+   "menu_observatory": {
+      "message": "העדפות מיצפה SSL"
+   },
+   "menu_showCounter": {
+      "message": "הראה מונה"
+   },
+   "menu_viewAllRules": {
+      "message": "הצג את כל הכללים"
+   },
+   "options_generalSettings": {
+      "message": "הגדרות כלליות"
+   },
+   "options_import": {
+      "message": "ייבא"
+   },
+   "options_importSettings": {
+      "message": "ייבא הגדרות"
+   },
+   "options_imported": {
+      "message": "ההגדרות שלך יובאו."
+   },
+   "prefs_export_settings": {
+      "message": "ייצא הגדרות"
+   },
+   "prefs_reset_defaults": {
+      "message": "אפס לברירות מחדל"
+   }
+}

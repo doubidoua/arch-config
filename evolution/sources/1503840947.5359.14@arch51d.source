@@ -1,0 +1,25 @@
+[Data Source]
+DisplayName=mathis.langlois59@gmail.com
+Enabled=true
+Parent=1503840947.5359.26@arch51d
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://1503840947.5359.16%40arch51d/%5bGmail%5d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+
+[Mail Identity]
+Address=mathis.langlois59@gmail.com
+Aliases=
+Name=Mathis
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1503840947.5359.24@arch51d
+RepliesToOriginFolder=false

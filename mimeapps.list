@@ -1,0 +1,5 @@
+[Added Associations]
+video/mp4=vlc-2.desktop;
+
+[Default Applications]
+video/mp4=vlc-2.desktop;
